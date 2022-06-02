@@ -1,4 +1,5 @@
 # jbscproject
 step 1 go to pages/Home.jsx
-then check <HowTo/> above <Footer/>
-HowTo.jsx is found inside componenets folder
+
+step 2  check <HowTo/> above <Footer/>
+step 3 HowTo.jsx is found inside componenets folder
